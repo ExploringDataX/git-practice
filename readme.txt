@@ -1,3 +1,3 @@
-# Git Practice - Version A
+# Git Practice - Final Version
 Hello Git
 This is my second line.
